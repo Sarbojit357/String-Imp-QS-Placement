@@ -1,3 +1,4 @@
+//Print the first non repeatong chracter fro the String
 import java.util.*;
 public class nonrep {
     public static void main(String[] args) {
